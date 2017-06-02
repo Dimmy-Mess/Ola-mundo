@@ -1,4 +1,6 @@
-Curso git
-Repositorio para aprender como git funciona
+Aprendendo algo sobre git e GitHub
 
-mais uma lina aew
+Repositorio Ola-mundo para aprender como git funciona. Esse repositorio não 
+deve conter nada de novo para olhar, além do Readme.md Aliás, WHATAFUCK is md?
+
+
